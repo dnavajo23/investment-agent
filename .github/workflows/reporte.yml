@@ -1,0 +1,30 @@
+name: Reporte diario de inversiones
+
+on:
+  schedule:
+    - cron: '50 7 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  ejecutar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar librerias
+        run: pip install anthropic yfinance feedparser python-dotenv requests twilio pandas beautifulsoup4
+
+      - name: Crear env
+        run: |
+          echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" > .env
+          echo "TWILIO_SID=${{ secrets.TWILIO_SID }}" >> .env
+          echo "TWILIO_TOKEN=${{ secrets.TWILIO_TOKEN }}" >> .env
+          echo "TU_TELEFONO=${{ secrets.TU_TELEFONO }}" >> .env
+
+      - name: Ejecutar agente
+        run: python main.py
