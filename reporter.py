@@ -9,14 +9,23 @@ load_dotenv()
 def enviar_telegram(reporte: str):
     token = os.getenv("TELEGRAM_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    
+    print(f"DEBUG - Token existe: {bool(token)}")
+    print(f"DEBUG - Chat ID existe: {bool(chat_id)}")
+    
+    if not token or not chat_id:
+        print("ERROR: TELEGRAM_TOKEN o TELEGRAM_CHAT_ID no encontrados")
+        return
+    
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     trozos = [reporte[i:i+4000] for i in range(0, len(reporte), 4000)]
     for i, trozo in enumerate(trozos):
         prefijo = f"[{i+1}/{len(trozos)}]\n" if len(trozos) > 1 else ""
-        requests.post(url, data={
+        r = requests.post(url, data={
             "chat_id": chat_id,
             "text": prefijo + trozo
         })
+        print(f"DEBUG - Telegram respuesta: {r.json()}")
     print(f"Reporte enviado por Telegram ({len(trozos)} mensajes)")
 
 
