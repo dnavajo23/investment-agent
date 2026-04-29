@@ -2,7 +2,7 @@ name: Reporte diario de inversiones
 
 on:
   schedule:
-    - cron: '50 7 * * 1-5'
+    - cron: '00 14 * * 1-5'
   workflow_dispatch:
 
 jobs:
