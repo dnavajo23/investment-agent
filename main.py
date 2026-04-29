@@ -1,6 +1,6 @@
 from fetcher import obtener_datos_completos
 from analyst import analizar
-from reporter import enviar_telegram
+from reporter import enviar_reporte
 from historial import (
     guardar_recomendaciones,
     verificar_aciertos,
@@ -28,8 +28,8 @@ def ejecutar_agente():
     recomendaciones = extraer_recomendaciones_del_reporte(reporte, top30)
     guardar_recomendaciones(recomendaciones)
 
-    print("Enviando por Telegram...")
-    enviar_telegram(reporte)
+    print("Enviando reporte...")
+    enviar_reporte(reporte)
     print("Todo listo!")
 
 if __name__ == "__main__":
