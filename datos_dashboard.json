@@ -1,4 +1,33 @@
 {
   "actualizado": "2026-05-28",
-  "posiciones": []
+  "posiciones": [
+    {
+      "ticker": "ZS",
+      "fecha": "2026-05-28",
+      "precio": 130.73,
+      "take_profit": 144.48,
+      "stop_loss": 120.27
+    },
+    {
+      "ticker": "QCOM",
+      "fecha": "2026-05-28",
+      "precio": 243.215,
+      "take_profit": 270.0,
+      "stop_loss": 224.0
+    },
+    {
+      "ticker": "LLY",
+      "fecha": "2026-05-28",
+      "precio": 1131.87,
+      "take_profit": 1.0,
+      "stop_loss": 1.0
+    },
+    {
+      "ticker": "NET",
+      "fecha": "2026-05-28",
+      "precio": 226.87,
+      "take_profit": 250.88,
+      "stop_loss": 208.32
+    }
+  ]
 }
