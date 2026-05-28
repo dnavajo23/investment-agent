@@ -6,6 +6,9 @@ on:
     - cron: '00 14 * * 1-5'
   workflow_dispatch:
 
+permissions:
+  contents: write   # necesario para que el workflow pueda hacer push del JSON
+
 jobs:
   ejecutar:
     runs-on: ubuntu-latest
@@ -28,6 +31,8 @@ jobs:
           echo "TU_TELEFONO=${{ secrets.TU_TELEFONO }}" >> .env
           echo "TELEGRAM_TOKEN=${{ secrets.TELEGRAM_TOKEN }}" >> .env
           echo "TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}" >> .env
+          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> .env
+          echo "GITHUB_REPO=${{ github.repository }}" >> .env
 
       - name: Ejecutar agente
         run: python main.py
