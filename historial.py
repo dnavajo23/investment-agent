@@ -186,52 +186,72 @@ def extraer_recomendaciones_del_reporte(reporte: str, top30: list) -> list:
     """
     Extrae los tickers recomendados del reporte junto con su accion, precio,
     take profit y stop loss para poder hacer seguimiento posterior.
+    El formato del reporte es:
+      #1 TICKER - Empresa - X/10
+      ...
+      Accion: COMPRAR / EVITAR
+      ...
+      Take Profit: $X
+      Stop Loss: $X
     """
     recomendaciones = []
     precios = {d["ticker"]: d["precio"] for d in top30}
 
-    # Limpiar formato Markdown (asteriscos)
+    # Limpiar formato Markdown (asteriscos, negrita, cursiva)
     reporte_limpio = re.sub(r"\*+", "", reporte)
-
     lineas = reporte_limpio.split("\n")
 
     for i, linea in enumerate(lineas):
-        for ticker, precio in precios.items():
-            if ticker not in linea:
-                continue
+        # Buscar linea que contenga un ticker conocido (cabecera del bloque)
+        ticker_encontrado = None
+        for ticker in precios:
+            if ticker in linea:
+                ticker_encontrado = ticker
+                break
 
-            accion = None
-            if "COMPRAR" in linea.upper():
-                accion = "COMPRAR"
-            elif "EVITAR" in linea.upper():
-                accion = "EVITAR"
+        if not ticker_encontrado:
+            continue
 
-            if not accion:
-                continue
+        # Buscar accion, TP y SL en las siguientes 20 lineas del bloque
+        accion = None
+        take_profit = None
+        stop_loss = None
 
-            # Buscar TP y SL en las siguientes 15 lineas del bloque
-            take_profit = None
-            stop_loss = None
-            for j in range(i + 1, min(i + 16, len(lineas))):
-                linea_j = lineas[j]
-                tp_match = re.search(r"Take Profit.*?\$([0-9]+(?:\.[0-9]+)?)", linea_j, re.IGNORECASE)
-                sl_match = re.search(r"Stop Loss.*?\$([0-9]+(?:\.[0-9]+)?)", linea_j, re.IGNORECASE)
-                if tp_match:
-                    take_profit = float(tp_match.group(1))
-                if sl_match:
-                    stop_loss = float(sl_match.group(1))
-                # Parar si encontramos el siguiente ticker del top
-                if j > i + 1 and any(t in lineas[j] for t in precios if t != ticker):
-                    break
+        for j in range(i + 1, min(i + 21, len(lineas))):
+            linea_j = lineas[j].strip()
 
+            # Detectar accion
+            if accion is None:
+                if re.search(r"acci[oó]n\s*:.*comprar", linea_j, re.IGNORECASE):
+                    accion = "COMPRAR"
+                elif re.search(r"acci[oó]n\s*:.*evitar", linea_j, re.IGNORECASE):
+                    accion = "EVITAR"
+                elif re.search(r"acci[oó]n\s*:.*esperar", linea_j, re.IGNORECASE):
+                    accion = "ESPERAR"
+
+            # Detectar Take Profit
+            tp_match = re.search(r"take\s*profit\s*:?\s*\$([0-9]+(?:\.[0-9]+)?)", linea_j, re.IGNORECASE)
+            if tp_match:
+                take_profit = float(tp_match.group(1))
+
+            # Detectar Stop Loss
+            sl_match = re.search(r"stop\s*loss\s*:?\s*\$([0-9]+(?:\.[0-9]+)?)", linea_j, re.IGNORECASE)
+            if sl_match:
+                stop_loss = float(sl_match.group(1))
+
+            # Parar si llegamos al siguiente bloque (nueva entrada #N)
+            if j > i + 1 and re.match(r"#\d+\s", linea_j):
+                break
+
+        # Solo guardar si encontramos una accion relevante
+        if accion in ("COMPRAR", "EVITAR"):
             recomendaciones.append({
-                "ticker":      ticker,
+                "ticker":      ticker_encontrado,
                 "accion":      accion,
-                "precio":      precio,
+                "precio":      precios[ticker_encontrado],
                 "take_profit": take_profit,
                 "stop_loss":   stop_loss,
             })
-            break  # un ticker por linea es suficiente
 
     # Eliminar duplicados manteniendo el primero
     vistos = set()
