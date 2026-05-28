@@ -1,18 +1,24 @@
-# version 3
+# version 4
 from fetcher import obtener_datos_completos
 from analyst import analizar
 from reporter import enviar_reporte
 from historial import (
     guardar_recomendaciones,
     verificar_aciertos,
-    extraer_recomendaciones_del_reporte
+    extraer_recomendaciones_del_reporte,
+    resumen_semanal_viernes,
 )
+from dashboard_updater import actualizar_dashboard
+
 
 def ejecutar_agente():
     print("Iniciando agente de inversiones...")
 
     print("Verificando aciertos de la semana pasada...")
     resultado_aciertos = verificar_aciertos()
+
+    print("Comprobando si es viernes para resumen semanal...")
+    resumen_viernes = resumen_semanal_viernes()
 
     print("Obteniendo datos de mercado...")
     top30, noticias, insiders, fear, macro, earnings, noticias_especificas = obtener_datos_completos()
@@ -22,6 +28,9 @@ def ejecutar_agente():
     reporte = analizar(top30, noticias, insiders, fear, macro, earnings, noticias_especificas)
     print(f"Reporte generado ({len(reporte)} caracteres)")
 
+    if resumen_viernes:
+        reporte = resumen_viernes + "\n" + reporte
+
     if resultado_aciertos:
         reporte = resultado_aciertos + "\n" + reporte
 
@@ -29,9 +38,13 @@ def ejecutar_agente():
     recomendaciones = extraer_recomendaciones_del_reporte(reporte, top30)
     guardar_recomendaciones(recomendaciones)
 
+    print("Actualizando dashboard...")
+    actualizar_dashboard()
+
     print("Enviando reporte...")
     enviar_reporte(reporte)
     print("Todo listo!")
+
 
 if __name__ == "__main__":
     print("Arrancando...")
