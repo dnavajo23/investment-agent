@@ -190,7 +190,10 @@ def extraer_recomendaciones_del_reporte(reporte: str, top30: list) -> list:
     recomendaciones = []
     precios = {d["ticker"]: d["precio"] for d in top30}
 
-    lineas = reporte.split("\n")
+    # Limpiar formato Markdown (asteriscos)
+    reporte_limpio = re.sub(r"\*+", "", reporte)
+
+    lineas = reporte_limpio.split("\n")
 
     for i, linea in enumerate(lineas):
         for ticker, precio in precios.items():
