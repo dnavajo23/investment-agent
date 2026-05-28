@@ -34,10 +34,13 @@ jobs:
           echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> .env
           echo "GITHUB_REPO=${{ github.repository }}" >> .env
 
-      - name: Restaurar historial
+      - name: Configurar git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Restaurar historial
+        run: |
           if [ -f historial_recomendaciones.json ]; then
             echo "Historial encontrado en el repo"
           else
@@ -51,5 +54,7 @@ jobs:
       - name: Guardar historial en repo
         run: |
           git add historial_recomendaciones.json datos_dashboard.json || true
-          git diff --staged --quiet || git commit -m "historial: actualizar $(date +%Y-%m-%d)"
+          git diff --staged --quiet && echo "Sin cambios" && exit 0
+          git commit -m "historial: actualizar $(date +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
