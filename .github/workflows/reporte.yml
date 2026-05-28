@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # necesario para que el workflow pueda hacer push del JSON
+  contents: write
 
 jobs:
   ejecutar:
@@ -34,5 +34,22 @@ jobs:
           echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> .env
           echo "GITHUB_REPO=${{ github.repository }}" >> .env
 
+      - name: Restaurar historial
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -f historial_recomendaciones.json ]; then
+            echo "Historial encontrado en el repo"
+          else
+            echo "[]" > historial_recomendaciones.json
+            echo "Historial creado vacio"
+          fi
+
       - name: Ejecutar agente
         run: python main.py
+
+      - name: Guardar historial en repo
+        run: |
+          git add historial_recomendaciones.json datos_dashboard.json || true
+          git diff --staged --quiet || git commit -m "historial: actualizar $(date +%Y-%m-%d)"
+          git push
