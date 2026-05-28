@@ -3,5 +3,39 @@
     "fecha": "2026-05-28",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-05-28",
+    "recomendaciones": [
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 130.73,
+        "take_profit": 144.48,
+        "stop_loss": 120.27
+      },
+      {
+        "ticker": "QCOM",
+        "accion": "COMPRAR",
+        "precio": 243.215,
+        "take_profit": 270.0,
+        "stop_loss": 224.0
+      },
+      {
+        "ticker": "LLY",
+        "accion": "COMPRAR",
+        "precio": 1131.87,
+        "take_profit": 1.0,
+        "stop_loss": 1.0
+      },
+      {
+        "ticker": "NET",
+        "accion": "COMPRAR",
+        "precio": 226.87,
+        "take_profit": 250.88,
+        "stop_loss": 208.32
+      }
+    ],
+    "verificado": false
   }
 ]
