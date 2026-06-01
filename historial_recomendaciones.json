@@ -109,5 +109,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-06-01",
+    "recomendaciones": [
+      {
+        "ticker": "GS",
+        "accion": "COMPRAR",
+        "precio": 1049.01,
+        "take_profit": 38.9,
+        "stop_loss": 32.3
+      }
+    ],
+    "verificado": false
   }
 ]
