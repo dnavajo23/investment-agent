@@ -148,5 +148,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-06-03",
+    "recomendaciones": [
+      {
+        "ticker": "DE",
+        "accion": "COMPRAR",
+        "precio": 579.25,
+        "take_profit": 649.76,
+        "stop_loss": 540.44
+      }
+    ],
+    "verificado": false
   }
 ]
