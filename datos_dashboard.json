@@ -7,8 +7,8 @@
       "precio": 130.73,
       "take_profit": 144.48,
       "stop_loss": 120.27,
-      "precio_actual": 144.15,
-      "cambio_1d": -7.42
+      "precio_actual": 135.09,
+      "cambio_1d": -6.29
     },
     {
       "ticker": "QCOM",
@@ -16,8 +16,8 @@
       "precio": 243.215,
       "take_profit": 270.0,
       "stop_loss": 224.0,
-      "precio_actual": 240.84,
-      "cambio_1d": 5.17
+      "precio_actual": 250.63,
+      "cambio_1d": 4.06
     },
     {
       "ticker": "LLY",
@@ -25,8 +25,8 @@
       "precio": 1131.87,
       "take_profit": 1.0,
       "stop_loss": 1.0,
-      "precio_actual": 1064.15,
-      "cambio_1d": -1.67
+      "precio_actual": 1090.2,
+      "cambio_1d": 2.45
     },
     {
       "ticker": "NET",
@@ -34,8 +34,8 @@
       "precio": 226.87,
       "take_profit": 250.88,
       "stop_loss": 208.32,
-      "precio_actual": 272.66,
-      "cambio_1d": 0.68
+      "precio_actual": 266.63,
+      "cambio_1d": -2.21
     },
     {
       "ticker": "GE",
@@ -43,8 +43,8 @@
       "precio": 320.82,
       "take_profit": 73.8,
       "stop_loss": 57.89,
-      "precio_actual": 317.72,
-      "cambio_1d": -2.12
+      "precio_actual": 318.98,
+      "cambio_1d": 0.4
     },
     {
       "ticker": "ORCL",
@@ -52,8 +52,8 @@
       "precio": 223.95,
       "take_profit": 250.82,
       "stop_loss": 208.27,
-      "precio_actual": 244.58,
-      "cambio_1d": -1.44
+      "precio_actual": 231.41,
+      "cambio_1d": -5.38
     },
     {
       "ticker": "CRM",
@@ -61,8 +61,8 @@
       "precio": 193.86,
       "take_profit": 217.12,
       "stop_loss": 180.29,
-      "precio_actual": 200.84,
-      "cambio_1d": -4.18
+      "precio_actual": 191.24,
+      "cambio_1d": -4.78
     },
     {
       "ticker": "ADBE",
@@ -70,8 +70,8 @@
       "precio": 256.94,
       "take_profit": 304.8,
       "stop_loss": 236.22,
-      "precio_actual": 262.11,
-      "cambio_1d": -4.35
+      "precio_actual": 256.4,
+      "cambio_1d": -2.18
     },
     {
       "ticker": "GS",
@@ -79,8 +79,8 @@
       "precio": 1049.01,
       "take_profit": 38.9,
       "stop_loss": 32.3,
-      "precio_actual": 1064.58,
-      "cambio_1d": 1.53
+      "precio_actual": 1047.62,
+      "cambio_1d": -1.59
     },
     {
       "ticker": "DE",
@@ -88,8 +88,8 @@
       "precio": 579.25,
       "take_profit": 625.59,
       "stop_loss": 539.0,
-      "precio_actual": 579.25,
-      "cambio_1d": 6.79
+      "precio_actual": 589.24,
+      "cambio_1d": 1.72
     }
   ]
 }
