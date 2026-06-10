@@ -270,5 +270,25 @@
     "fecha": "2026-06-10",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-06-10",
+    "recomendaciones": [
+      {
+        "ticker": "KO",
+        "accion": "COMPRAR",
+        "precio": 83.7,
+        "take_profit": 93.52,
+        "stop_loss": 78.49
+      },
+      {
+        "ticker": "AON",
+        "accion": "COMPRAR",
+        "precio": 339.03,
+        "take_profit": 378.56,
+        "stop_loss": 314.84
+      }
+    ],
+    "verificado": false
   }
 ]
