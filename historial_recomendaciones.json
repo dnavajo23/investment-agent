@@ -178,12 +178,12 @@
         "stop_loss": 547.11
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-04",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-05",
@@ -287,6 +287,26 @@
         "precio": 339.03,
         "take_profit": 378.56,
         "stop_loss": 314.84
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-06-11",
+    "recomendaciones": [
+      {
+        "ticker": "DE",
+        "accion": "COMPRAR",
+        "precio": 560.05,
+        "take_profit": null,
+        "stop_loss": null
+      },
+      {
+        "ticker": "KO",
+        "accion": "COMPRAR",
+        "precio": 83.59,
+        "take_profit": 92.96,
+        "stop_loss": 77.19
       }
     ],
     "verificado": false
