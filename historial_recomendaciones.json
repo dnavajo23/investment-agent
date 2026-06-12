@@ -188,12 +188,12 @@
   {
     "fecha": "2026-06-05",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-05",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-08",
@@ -341,6 +341,26 @@
         "precio": 691.1,
         "take_profit": 767.2,
         "stop_loss": 637.05
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-06-12",
+    "recomendaciones": [
+      {
+        "ticker": "LRCX",
+        "accion": "COMPRAR",
+        "precio": 362.52,
+        "take_profit": 391.52,
+        "stop_loss": 337.14
+      },
+      {
+        "ticker": "FDX",
+        "accion": "COMPRAR",
+        "precio": 338.0,
+        "take_profit": 378.56,
+        "stop_loss": 314.34
       }
     ],
     "verificado": false
