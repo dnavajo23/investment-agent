@@ -382,5 +382,46 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-06-15",
+    "recomendaciones": [
+      {
+        "ticker": "AMD",
+        "accion": "COMPRAR",
+        "precio": 547.06,
+        "take_profit": 612.71,
+        "stop_loss": 509.77
+      },
+      {
+        "ticker": "SOXX",
+        "accion": "COMPRAR",
+        "precio": 628.005,
+        "take_profit": 703.37,
+        "stop_loss": 584.05
+      },
+      {
+        "ticker": "XRP-USD",
+        "accion": "COMPRAR",
+        "precio": 1.28,
+        "take_profit": 1.38,
+        "stop_loss": 1.21
+      },
+      {
+        "ticker": "MCHP",
+        "accion": "COMPRAR",
+        "precio": 100.44,
+        "take_profit": 112.49,
+        "stop_loss": 93.41
+      },
+      {
+        "ticker": "HON",
+        "accion": "COMPRAR",
+        "precio": 230.04,
+        "take_profit": 257.64,
+        "stop_loss": 213.94
+      }
+    ],
+    "verificado": false
   }
 ]
