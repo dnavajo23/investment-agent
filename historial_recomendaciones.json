@@ -198,7 +198,7 @@
   {
     "fecha": "2026-06-08",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-08",
@@ -232,7 +232,7 @@
         "stop_loss": 454.77
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-09",
@@ -368,6 +368,19 @@
   {
     "fecha": "2026-06-12",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-06-15",
+    "recomendaciones": [
+      {
+        "ticker": "ADA-USD",
+        "accion": "COMPRAR",
+        "precio": 0.188,
+        "take_profit": 0.2,
+        "stop_loss": 0.175
+      }
+    ],
     "verificado": false
   }
 ]
