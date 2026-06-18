@@ -309,7 +309,7 @@
         "stop_loss": 77.19
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-11",
@@ -343,7 +343,7 @@
         "stop_loss": 637.05
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-12",
@@ -473,6 +473,26 @@
   {
     "fecha": "2026-06-17",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-06-18",
+    "recomendaciones": [
+      {
+        "ticker": "RTX",
+        "accion": "COMPRAR",
+        "precio": 192.58,
+        "take_profit": 215.69,
+        "stop_loss": 179.1
+      },
+      {
+        "ticker": "MS",
+        "accion": "COMPRAR",
+        "precio": 224.96,
+        "take_profit": 251.95,
+        "stop_loss": 209.21
+      }
+    ],
     "verificado": false
   }
 ]
