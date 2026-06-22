@@ -381,7 +381,7 @@
         "stop_loss": 0.175
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-15",
@@ -422,7 +422,7 @@
         "stop_loss": 213.94
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-16",
@@ -545,6 +545,33 @@
   {
     "fecha": "2026-06-19",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-06-22",
+    "recomendaciones": [
+      {
+        "ticker": "MCHP",
+        "accion": "COMPRAR",
+        "precio": 99.77,
+        "take_profit": 110.88,
+        "stop_loss": 92.07
+      },
+      {
+        "ticker": "TXN",
+        "accion": "COMPRAR",
+        "precio": 322.86,
+        "take_profit": 358.4,
+        "stop_loss": 297.6
+      },
+      {
+        "ticker": "LRCX",
+        "accion": "COMPRAR",
+        "precio": 389.04,
+        "take_profit": 433.44,
+        "stop_loss": 360.51
+      }
+    ],
     "verificado": false
   }
 ]
