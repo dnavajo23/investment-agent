@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-22",
+  "actualizado": "2026-06-23",
   "posiciones": [
     {
       "ticker": "ZS",
@@ -7,8 +7,8 @@
       "precio": 130.73,
       "take_profit": 144.48,
       "stop_loss": 120.27,
-      "precio_actual": 122.75,
-      "cambio_1d": -1.68
+      "precio_actual": 124.06,
+      "cambio_1d": -0.63
     },
     {
       "ticker": "QCOM",
@@ -16,8 +16,8 @@
       "precio": 243.215,
       "take_profit": 270.0,
       "stop_loss": 224.0,
-      "precio_actual": 227.7,
-      "cambio_1d": 0.7
+      "precio_actual": 221.9,
+      "cambio_1d": -1.86
     },
     {
       "ticker": "LLY",
@@ -25,8 +25,8 @@
       "precio": 1131.87,
       "take_profit": 1.0,
       "stop_loss": 1.0,
-      "precio_actual": 1108.54,
-      "cambio_1d": 0.91
+      "precio_actual": 1102.08,
+      "cambio_1d": 0.32
     },
     {
       "ticker": "NET",
@@ -34,8 +34,8 @@
       "precio": 226.87,
       "take_profit": 250.88,
       "stop_loss": 208.32,
-      "precio_actual": 216.1,
-      "cambio_1d": -3.55
+      "precio_actual": 218.38,
+      "cambio_1d": -2.54
     },
     {
       "ticker": "GE",
@@ -43,8 +43,8 @@
       "precio": 320.82,
       "take_profit": 73.8,
       "stop_loss": 57.89,
-      "precio_actual": 356.5,
-      "cambio_1d": -0.32
+      "precio_actual": 355.12,
+      "cambio_1d": -0.7
     },
     {
       "ticker": "ORCL",
@@ -52,8 +52,8 @@
       "precio": 223.95,
       "take_profit": 250.82,
       "stop_loss": 208.27,
-      "precio_actual": 176.34,
-      "cambio_1d": -4.31
+      "precio_actual": 175.07,
+      "cambio_1d": -5.0
     },
     {
       "ticker": "CRM",
@@ -61,8 +61,8 @@
       "precio": 193.86,
       "take_profit": 217.12,
       "stop_loss": 180.29,
-      "precio_actual": 149.06,
-      "cambio_1d": -1.79
+      "precio_actual": 150.12,
+      "cambio_1d": -1.09
     },
     {
       "ticker": "ADBE",
@@ -70,8 +70,8 @@
       "precio": 256.94,
       "take_profit": 304.8,
       "stop_loss": 236.22,
-      "precio_actual": 192.69,
-      "cambio_1d": -1.27
+      "precio_actual": 194.9,
+      "cambio_1d": -0.13
     },
     {
       "ticker": "GS",
@@ -79,8 +79,8 @@
       "precio": 1049.01,
       "take_profit": 38.9,
       "stop_loss": 32.3,
-      "precio_actual": 1103.44,
-      "cambio_1d": 0.63
+      "precio_actual": 1106.37,
+      "cambio_1d": 0.89
     },
     {
       "ticker": "DE",
@@ -88,8 +88,8 @@
       "precio": 579.25,
       "take_profit": 625.59,
       "stop_loss": 539.0,
-      "precio_actual": 600.64,
-      "cambio_1d": 1.93
+      "precio_actual": 598.59,
+      "cambio_1d": 1.59
     },
     {
       "ticker": "CDNS",
@@ -97,8 +97,8 @@
       "precio": 393.26,
       "take_profit": 436.8,
       "stop_loss": 362.7,
-      "precio_actual": 381.88,
-      "cambio_1d": -1.42
+      "precio_actual": 389.04,
+      "cambio_1d": 0.43
     },
     {
       "ticker": "NOW",
@@ -106,8 +106,8 @@
       "precio": 114.095,
       "take_profit": 126.56,
       "stop_loss": 104.59,
-      "precio_actual": 92.47,
-      "cambio_1d": -2.7
+      "precio_actual": 93.01,
+      "cambio_1d": -2.14
     },
     {
       "ticker": "AMAT",
@@ -115,8 +115,8 @@
       "precio": 489.255,
       "take_profit": 528.12,
       "stop_loss": 454.77,
-      "precio_actual": 625.46,
-      "cambio_1d": 1.35
+      "precio_actual": 640.18,
+      "cambio_1d": 3.74
     },
     {
       "ticker": "LRCX",
@@ -124,8 +124,8 @@
       "precio": 324.45,
       "take_profit": 347.76,
       "stop_loss": 299.46,
-      "precio_actual": 397.31,
-      "cambio_1d": 2.13
+      "precio_actual": 409.54,
+      "cambio_1d": 5.27
     },
     {
       "ticker": "KO",
@@ -133,8 +133,8 @@
       "precio": 83.7,
       "take_profit": 93.52,
       "stop_loss": 78.49,
-      "precio_actual": 79.78,
-      "cambio_1d": 0.49
+      "precio_actual": 79.53,
+      "cambio_1d": 0.18
     },
     {
       "ticker": "AON",
@@ -142,8 +142,8 @@
       "precio": 339.03,
       "take_profit": 378.56,
       "stop_loss": 314.84,
-      "precio_actual": 315.8,
-      "cambio_1d": -0.61
+      "precio_actual": 313.63,
+      "cambio_1d": -1.29
     },
     {
       "ticker": "AMGN",
@@ -151,8 +151,8 @@
       "precio": 354.52,
       "take_profit": 397.06,
       "stop_loss": 329.7,
-      "precio_actual": 343.92,
-      "cambio_1d": 1.87
+      "precio_actual": 344.72,
+      "cambio_1d": 2.11
     },
     {
       "ticker": "NKE",
@@ -160,8 +160,8 @@
       "precio": 44.955,
       "take_profit": 49.84,
       "stop_loss": 41.39,
-      "precio_actual": 43.47,
-      "cambio_1d": -3.83
+      "precio_actual": 43.19,
+      "cambio_1d": -4.45
     },
     {
       "ticker": "CRWD",
@@ -169,8 +169,8 @@
       "precio": 691.1,
       "take_profit": 767.2,
       "stop_loss": 637.05,
-      "precio_actual": 680.59,
-      "cambio_1d": -0.62
+      "precio_actual": 675.44,
+      "cambio_1d": -1.38
     },
     {
       "ticker": "FDX",
@@ -178,8 +178,8 @@
       "precio": 338.0,
       "take_profit": 378.56,
       "stop_loss": 314.34,
-      "precio_actual": 329.19,
-      "cambio_1d": 0.92
+      "precio_actual": 328.78,
+      "cambio_1d": 1.17
     },
     {
       "ticker": "ADA-USD",
@@ -187,8 +187,8 @@
       "precio": 0.188,
       "take_profit": 0.2,
       "stop_loss": 0.175,
-      "precio_actual": 0.16,
-      "cambio_1d": 0.0
+      "precio_actual": 0.15,
+      "cambio_1d": -6.25
     },
     {
       "ticker": "AMD",
@@ -196,8 +196,8 @@
       "precio": 547.06,
       "take_profit": 612.71,
       "stop_loss": 509.77,
-      "precio_actual": 545.5,
-      "cambio_1d": 1.51
+      "precio_actual": 551.63,
+      "cambio_1d": 2.65
     },
     {
       "ticker": "SOXX",
@@ -205,8 +205,8 @@
       "precio": 628.005,
       "take_profit": 703.37,
       "stop_loss": 584.05,
-      "precio_actual": 650.56,
-      "cambio_1d": 1.74
+      "precio_actual": 655.01,
+      "cambio_1d": 2.43
     },
     {
       "ticker": "XRP-USD",
@@ -214,8 +214,8 @@
       "precio": 1.28,
       "take_profit": 1.38,
       "stop_loss": 1.21,
-      "precio_actual": 1.14,
-      "cambio_1d": 1.79
+      "precio_actual": 1.1,
+      "cambio_1d": -2.65
     },
     {
       "ticker": "MCHP",
@@ -223,8 +223,8 @@
       "precio": 100.44,
       "take_profit": 112.49,
       "stop_loss": 93.41,
-      "precio_actual": 102.1,
-      "cambio_1d": 2.34
+      "precio_actual": 102.71,
+      "cambio_1d": 2.95
     },
     {
       "ticker": "HON",
@@ -232,8 +232,8 @@
       "precio": 230.04,
       "take_profit": 257.64,
       "stop_loss": 213.94,
-      "precio_actual": 228.85,
-      "cambio_1d": -0.07
+      "precio_actual": 228.11,
+      "cambio_1d": -0.39
     },
     {
       "ticker": "KLAC",
@@ -241,8 +241,8 @@
       "precio": 256.42,
       "take_profit": 274.32,
       "stop_loss": 236.22,
-      "precio_actual": 267.2,
-      "cambio_1d": 2.94
+      "precio_actual": 269.16,
+      "cambio_1d": 3.7
     },
     {
       "ticker": "QQQ",
@@ -250,8 +250,8 @@
       "precio": 744.0,
       "take_profit": 828.8,
       "stop_loss": 688.2,
-      "precio_actual": 737.47,
-      "cambio_1d": -0.43
+      "precio_actual": 737.95,
+      "cambio_1d": -0.25
     },
     {
       "ticker": "GDX",
@@ -259,8 +259,8 @@
       "precio": 87.48,
       "take_profit": 97.44,
       "stop_loss": 81.81,
-      "precio_actual": 81.16,
-      "cambio_1d": -1.64
+      "precio_actual": 81.44,
+      "cambio_1d": -1.3
     },
     {
       "ticker": "RTX",
@@ -268,8 +268,8 @@
       "precio": 192.58,
       "take_profit": 215.69,
       "stop_loss": 179.1,
-      "precio_actual": 182.25,
-      "cambio_1d": -1.8
+      "precio_actual": 181.83,
+      "cambio_1d": -2.03
     },
     {
       "ticker": "MS",
@@ -277,8 +277,8 @@
       "precio": 224.96,
       "take_profit": 251.95,
       "stop_loss": 209.21,
-      "precio_actual": 227.76,
-      "cambio_1d": 2.06
+      "precio_actual": 227.09,
+      "cambio_1d": 1.76
     },
     {
       "ticker": "TXN",
@@ -286,8 +286,8 @@
       "precio": 322.86,
       "take_profit": 361.6,
       "stop_loss": 301.87,
-      "precio_actual": 329.24,
-      "cambio_1d": 1.98
+      "precio_actual": 332.28,
+      "cambio_1d": 2.92
     },
     {
       "ticker": "CAT",
@@ -295,8 +295,8 @@
       "precio": 985.82,
       "take_profit": 1.0,
       "stop_loss": 921.19,
-      "precio_actual": 1018.0,
-      "cambio_1d": 3.26
+      "precio_actual": 1022.28,
+      "cambio_1d": 3.7
     },
     {
       "ticker": "ABBV",
@@ -304,8 +304,8 @@
       "precio": 231.435,
       "take_profit": 259.21,
       "stop_loss": 215.24,
-      "precio_actual": 231.46,
-      "cambio_1d": 6.91
+      "precio_actual": 230.01,
+      "cambio_1d": 6.25
     }
   ]
 }
