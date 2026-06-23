@@ -442,7 +442,7 @@
         "stop_loss": 688.2
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-16",
@@ -455,7 +455,7 @@
         "stop_loss": 81.81
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-17",
@@ -590,6 +590,19 @@
         "precio": 1018.105,
         "take_profit": 1.0,
         "stop_loss": 946.84
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-06-23",
+    "recomendaciones": [
+      {
+        "ticker": "ABBV",
+        "accion": "COMPRAR",
+        "precio": 230.01,
+        "take_profit": 256.32,
+        "stop_loss": 212.51
       }
     ],
     "verificado": false
