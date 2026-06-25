@@ -641,5 +641,32 @@
     "fecha": "2026-06-25",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-06-25",
+    "recomendaciones": [
+      {
+        "ticker": "ABBV",
+        "accion": "COMPRAR",
+        "precio": 242.055,
+        "take_profit": 268.8,
+        "stop_loss": 223.2
+      },
+      {
+        "ticker": "CAT",
+        "accion": "COMPRAR",
+        "precio": 1050.675,
+        "take_profit": 1.0,
+        "stop_loss": 967.2
+      },
+      {
+        "ticker": "MRK",
+        "accion": "COMPRAR",
+        "precio": 123.665,
+        "take_profit": 137.2,
+        "stop_loss": 113.93
+      }
+    ],
+    "verificado": false
   }
 ]
