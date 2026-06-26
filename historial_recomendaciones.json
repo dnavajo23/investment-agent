@@ -540,12 +540,12 @@
         "stop_loss": 921.19
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-19",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-22",
@@ -665,6 +665,40 @@
         "precio": 123.665,
         "take_profit": 137.2,
         "stop_loss": 113.93
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-06-26",
+    "recomendaciones": [
+      {
+        "ticker": "MRK",
+        "accion": "COMPRAR",
+        "precio": 125.45,
+        "take_profit": 139.44,
+        "stop_loss": 118.28
+      },
+      {
+        "ticker": "ABBV",
+        "accion": "COMPRAR",
+        "precio": 243.14,
+        "take_profit": 271.04,
+        "stop_loss": 229.9
+      },
+      {
+        "ticker": "CAT",
+        "accion": "COMPRAR",
+        "precio": 1057.01,
+        "take_profit": 1.0,
+        "stop_loss": 997.5
+      },
+      {
+        "ticker": "JNJ",
+        "accion": "COMPRAR",
+        "precio": 244.88,
+        "take_profit": 273.28,
+        "stop_loss": 231.8
       }
     ],
     "verificado": false
