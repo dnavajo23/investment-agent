@@ -640,7 +640,7 @@
   {
     "fecha": "2026-06-25",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-25",
@@ -667,7 +667,7 @@
         "stop_loss": 113.93
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-06-26",
@@ -908,6 +908,26 @@
         "precio": 472.89,
         "take_profit": 529.64,
         "stop_loss": 439.79
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-02",
+    "recomendaciones": [
+      {
+        "ticker": "SPGI",
+        "accion": "COMPRAR",
+        "precio": 414.97,
+        "take_profit": 464.77,
+        "stop_loss": 389.07
+      },
+      {
+        "ticker": "CRM",
+        "accion": "COMPRAR",
+        "precio": 163.23,
+        "take_profit": 179.2,
+        "stop_loss": 150.4
       }
     ],
     "verificado": false
