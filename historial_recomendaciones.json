@@ -999,5 +999,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-03",
+    "recomendaciones": [
+      {
+        "ticker": "NOC",
+        "accion": "COMPRAR",
+        "precio": 549.01,
+        "take_profit": 615.69,
+        "stop_loss": 521.56
+      },
+      {
+        "ticker": "SPGI",
+        "accion": "COMPRAR",
+        "precio": 439.89,
+        "take_profit": 492.68,
+        "stop_loss": 417.9
+      }
+    ],
+    "verificado": false
   }
 ]
