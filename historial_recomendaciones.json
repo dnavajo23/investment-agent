@@ -1053,5 +1053,46 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-06",
+    "recomendaciones": [
+      {
+        "ticker": "AMD",
+        "accion": "COMPRAR",
+        "precio": 559.0364,
+        "take_profit": 621.6,
+        "stop_loss": 515.88
+      },
+      {
+        "ticker": "AAPL",
+        "accion": "COMPRAR",
+        "precio": 312.6372,
+        "take_profit": 347.2,
+        "stop_loss": 288.3
+      },
+      {
+        "ticker": "NOW",
+        "accion": "COMPRAR",
+        "precio": 109.25,
+        "take_profit": 120.96,
+        "stop_loss": 100.44
+      },
+      {
+        "ticker": "FTNT",
+        "accion": "COMPRAR",
+        "precio": 163.31,
+        "take_profit": 181.44,
+        "stop_loss": 150.66
+      },
+      {
+        "ticker": "MCO",
+        "accion": "COMPRAR",
+        "precio": 495.96,
+        "take_profit": 591.6,
+        "stop_loss": 458.49
+      }
+    ],
+    "verificado": false
   }
 ]
