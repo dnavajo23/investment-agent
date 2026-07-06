@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-03",
+  "actualizado": "2026-07-06",
   "posiciones": [
     {
       "ticker": "ZS",
@@ -187,8 +187,8 @@
       "precio": 0.188,
       "take_profit": 0.2,
       "stop_loss": 0.175,
-      "precio_actual": 0.17,
-      "cambio_1d": 6.25
+      "precio_actual": 0.18,
+      "cambio_1d": -5.26
     },
     {
       "ticker": "AMD",
@@ -214,8 +214,8 @@
       "precio": 1.28,
       "take_profit": 1.38,
       "stop_loss": 1.21,
-      "precio_actual": 1.12,
-      "cambio_1d": 2.75
+      "precio_actual": 1.14,
+      "cambio_1d": -1.72
     },
     {
       "ticker": "MCHP",
