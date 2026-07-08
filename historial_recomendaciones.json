@@ -869,7 +869,7 @@
         "stop_loss": 226.0
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-01",
@@ -910,7 +910,7 @@
         "stop_loss": 439.79
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-02",
@@ -1118,6 +1118,19 @@
   {
     "fecha": "2026-07-07",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-08",
+    "recomendaciones": [
+      {
+        "ticker": "DE",
+        "accion": "COMPRAR",
+        "precio": 603.61,
+        "take_profit": 3.92,
+        "stop_loss": 3.26
+      }
+    ],
     "verificado": false
   }
 ]
