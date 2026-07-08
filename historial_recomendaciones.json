@@ -1132,5 +1132,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-08",
+    "recomendaciones": [
+      {
+        "ticker": "USO",
+        "accion": "COMPRAR",
+        "precio": 114.83,
+        "take_profit": 124.02,
+        "stop_loss": 107.79
+      },
+      {
+        "ticker": "CVX",
+        "accion": "COMPRAR",
+        "precio": 177.87,
+        "take_profit": 192.1,
+        "stop_loss": 166.58
+      }
+    ],
+    "verificado": false
   }
 ]
