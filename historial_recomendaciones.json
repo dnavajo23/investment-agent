@@ -998,7 +998,7 @@
         "stop_loss": 332.0
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-03",
@@ -1018,7 +1018,7 @@
         "stop_loss": 417.9
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-06",
@@ -1210,6 +1210,40 @@
         "precio": 75.755,
         "take_profit": 84.85,
         "stop_loss": 70.46
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-10",
+    "recomendaciones": [
+      {
+        "ticker": "AMD",
+        "accion": "COMPRAR",
+        "precio": 546.72,
+        "take_profit": 612.33,
+        "stop_loss": 508.45
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 338.31,
+        "take_profit": 379.07,
+        "stop_loss": 314.63
+      },
+      {
+        "ticker": "META",
+        "accion": "COMPRAR",
+        "precio": 631.48,
+        "take_profit": 707.26,
+        "stop_loss": 587.28
+      },
+      {
+        "ticker": "CSCO",
+        "accion": "COMPRAR",
+        "precio": 118.31,
+        "take_profit": 132.51,
+        "stop_loss": 110.03
       }
     ],
     "verificado": false
