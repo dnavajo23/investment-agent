@@ -1247,5 +1247,32 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-10",
+    "recomendaciones": [
+      {
+        "ticker": "NVDA",
+        "accion": "COMPRAR",
+        "precio": 210.1,
+        "take_profit": 233.0,
+        "stop_loss": 193.44
+      },
+      {
+        "ticker": "WEAT",
+        "accion": "COMPRAR",
+        "precio": 23.86,
+        "take_profit": 25.77,
+        "stop_loss": 22.19
+      },
+      {
+        "ticker": "CSCO",
+        "accion": "COMPRAR",
+        "precio": 120.2,
+        "take_profit": 133.28,
+        "stop_loss": 110.67
+      }
+    ],
+    "verificado": false
   }
 ]
