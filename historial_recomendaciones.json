@@ -1113,12 +1113,12 @@
         "stop_loss": 51.62
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-07",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-08",
@@ -1332,6 +1332,40 @@
         "precio": 56.495,
         "take_profit": 61.02,
         "stop_loss": 53.35
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-14",
+    "recomendaciones": [
+      {
+        "ticker": "TXN",
+        "accion": "COMPRAR",
+        "precio": 298.57,
+        "take_profit": 331.52,
+        "stop_loss": 275.28
+      },
+      {
+        "ticker": "NXPI",
+        "accion": "COMPRAR",
+        "precio": 278.39,
+        "take_profit": 308.0,
+        "stop_loss": 255.75
+      },
+      {
+        "ticker": "CVX",
+        "accion": "COMPRAR",
+        "precio": 182.2,
+        "take_profit": 202.72,
+        "stop_loss": 168.33
+      },
+      {
+        "ticker": "XOM",
+        "accion": "COMPRAR",
+        "precio": 144.51,
+        "take_profit": 154.98,
+        "stop_loss": 133.46
       }
     ],
     "verificado": false
