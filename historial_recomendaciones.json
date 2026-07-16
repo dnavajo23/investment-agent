@@ -1185,7 +1185,7 @@
         "stop_loss": 52.25
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-09",
@@ -1212,7 +1212,7 @@
         "stop_loss": 70.46
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-10",
@@ -1435,6 +1435,11 @@
         "stop_loss": 484.5
       }
     ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-16",
+    "recomendaciones": [],
     "verificado": false
   }
 ]
