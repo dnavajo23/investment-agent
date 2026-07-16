@@ -1441,5 +1441,39 @@
     "fecha": "2026-07-16",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-16",
+    "recomendaciones": [
+      {
+        "ticker": "ABT",
+        "accion": "COMPRAR",
+        "precio": 99.04,
+        "take_profit": 110.32,
+        "stop_loss": 92.1
+      },
+      {
+        "ticker": "PLD",
+        "accion": "COMPRAR",
+        "precio": 148.54,
+        "take_profit": 164.64,
+        "stop_loss": 138.18
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 358.55,
+        "take_profit": 397.6,
+        "stop_loss": 333.95
+      },
+      {
+        "ticker": "ITW",
+        "accion": "COMPRAR",
+        "precio": 281.28,
+        "take_profit": 313.6,
+        "stop_loss": 261.6
+      }
+    ],
+    "verificado": false
   }
 ]
