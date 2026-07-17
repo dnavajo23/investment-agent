@@ -1246,7 +1246,7 @@
         "stop_loss": 110.03
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-10",
@@ -1273,7 +1273,7 @@
         "stop_loss": 110.67
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-13",
@@ -1472,6 +1472,33 @@
         "precio": 281.28,
         "take_profit": 313.6,
         "stop_loss": 261.6
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-17",
+    "recomendaciones": [
+      {
+        "ticker": "ABT",
+        "accion": "COMPRAR",
+        "precio": 98.83,
+        "take_profit": 109.76,
+        "stop_loss": 91.14
+      },
+      {
+        "ticker": "PLD",
+        "accion": "COMPRAR",
+        "precio": 150.06,
+        "take_profit": 166.88,
+        "stop_loss": 138.57
+      },
+      {
+        "ticker": "ITW",
+        "accion": "COMPRAR",
+        "precio": 282.97,
+        "take_profit": 314.72,
+        "stop_loss": 261.33
       }
     ],
     "verificado": false
