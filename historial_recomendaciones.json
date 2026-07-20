@@ -1314,7 +1314,7 @@
         "stop_loss": 21.86
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-13",
@@ -1334,7 +1334,7 @@
         "stop_loss": 53.35
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-14",
@@ -1540,6 +1540,26 @@
         "precio": 138.695,
         "take_profit": 154.56,
         "stop_loss": 128.34
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-20",
+    "recomendaciones": [
+      {
+        "ticker": "ABT",
+        "accion": "COMPRAR",
+        "precio": 100.68,
+        "take_profit": 112.0,
+        "stop_loss": 94.5
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 358.68,
+        "take_profit": 400.0,
+        "stop_loss": 339.15
       }
     ],
     "verificado": false
