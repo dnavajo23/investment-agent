@@ -1368,7 +1368,7 @@
         "stop_loss": 133.46
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-14",
@@ -1381,7 +1381,7 @@
         "stop_loss": 1.0
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-15",
@@ -1580,6 +1580,26 @@
         "precio": 60.895,
         "take_profit": 67.76,
         "stop_loss": 57.48
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-21",
+    "recomendaciones": [
+      {
+        "ticker": "ABT",
+        "accion": "COMPRAR",
+        "precio": 101.66,
+        "take_profit": 112.56,
+        "stop_loss": 93.47
+      },
+      {
+        "ticker": "BMY",
+        "accion": "COMPRAR",
+        "precio": 60.16,
+        "take_profit": 66.64,
+        "stop_loss": 55.34
       }
     ],
     "verificado": false
