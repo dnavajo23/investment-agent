@@ -1650,5 +1650,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-22",
+    "recomendaciones": [
+      {
+        "ticker": "ISRG",
+        "accion": "COMPRAR",
+        "precio": 344.535,
+        "take_profit": 383.04,
+        "stop_loss": 323.9
+      },
+      {
+        "ticker": "AMD",
+        "accion": "COMPRAR",
+        "precio": 554.6475,
+        "take_profit": 621.21,
+        "stop_loss": 521.37
+      }
+    ],
+    "verificado": false
   }
 ]
