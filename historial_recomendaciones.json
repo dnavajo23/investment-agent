@@ -1440,7 +1440,7 @@
   {
     "fecha": "2026-07-16",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-16",
@@ -1474,7 +1474,7 @@
         "stop_loss": 261.6
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-17",
@@ -1667,6 +1667,19 @@
         "precio": 554.6475,
         "take_profit": 621.21,
         "stop_loss": 521.37
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-23",
+    "recomendaciones": [
+      {
+        "ticker": "GDX",
+        "accion": "COMPRAR",
+        "precio": 76.68,
+        "take_profit": 85.88,
+        "stop_loss": 72.85
       }
     ],
     "verificado": false
