@@ -1683,5 +1683,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-23",
+    "recomendaciones": [
+      {
+        "ticker": "RTX",
+        "accion": "COMPRAR",
+        "precio": 209.9401,
+        "take_profit": 225.72,
+        "stop_loss": 197.7
+      }
+    ],
+    "verificado": false
   }
 ]
