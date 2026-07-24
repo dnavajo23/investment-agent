@@ -1730,5 +1730,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-24",
+    "recomendaciones": [
+      {
+        "ticker": "RTX",
+        "accion": "COMPRAR",
+        "precio": 213.26,
+        "take_profit": 238.85,
+        "stop_loss": 198.33
+      },
+      {
+        "ticker": "EMR",
+        "accion": "COMPRAR",
+        "precio": 148.51,
+        "take_profit": 166.33,
+        "stop_loss": 138.11
+      }
+    ],
+    "verificado": false
   }
 ]
