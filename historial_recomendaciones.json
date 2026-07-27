@@ -1791,5 +1791,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-27",
+    "recomendaciones": [
+      {
+        "ticker": "KLAC",
+        "accion": "COMPRAR",
+        "precio": 200.07,
+        "take_profit": 221.76,
+        "stop_loss": 184.14
+      }
+    ],
+    "verificado": false
   }
 ]
