@@ -1562,7 +1562,7 @@
         "stop_loss": 339.15
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-20",
@@ -1582,7 +1582,7 @@
         "stop_loss": 57.48
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-21",
@@ -1747,6 +1747,47 @@
         "precio": 148.51,
         "take_profit": 166.33,
         "stop_loss": 138.11
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-27",
+    "recomendaciones": [
+      {
+        "ticker": "SAN.MC",
+        "accion": "COMPRAR",
+        "precio": 12.328,
+        "take_profit": null,
+        "stop_loss": null
+      },
+      {
+        "ticker": "ETH-USD",
+        "accion": "COMPRAR",
+        "precio": 1964.71,
+        "take_profit": null,
+        "stop_loss": null
+      },
+      {
+        "ticker": "BTC-USD",
+        "accion": "COMPRAR",
+        "precio": 65290.5,
+        "take_profit": null,
+        "stop_loss": null
+      },
+      {
+        "ticker": "BNB-USD",
+        "accion": "COMPRAR",
+        "precio": 572.01,
+        "take_profit": null,
+        "stop_loss": null
+      },
+      {
+        "ticker": "DOT-USD",
+        "accion": "COMPRAR",
+        "precio": 0.811,
+        "take_profit": null,
+        "stop_loss": null
       }
     ],
     "verificado": false
