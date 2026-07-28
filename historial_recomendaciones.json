@@ -1602,7 +1602,7 @@
         "stop_loss": 55.34
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-21",
@@ -1629,7 +1629,7 @@
         "stop_loss": 1.0
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-22",
@@ -1801,6 +1801,19 @@
         "precio": 200.07,
         "take_profit": 221.76,
         "stop_loss": 184.14
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-07-28",
+    "recomendaciones": [
+      {
+        "ticker": "ORCL",
+        "accion": "COMPRAR",
+        "precio": 119.9,
+        "take_profit": 132.72,
+        "stop_loss": 110.21
       }
     ],
     "verificado": false
