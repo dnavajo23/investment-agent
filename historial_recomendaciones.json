@@ -1850,5 +1850,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-07-29",
+    "recomendaciones": [
+      {
+        "ticker": "NOW",
+        "accion": "COMPRAR",
+        "precio": 115.23,
+        "take_profit": 128.8,
+        "stop_loss": 106.95
+      },
+      {
+        "ticker": "KO",
+        "accion": "COMPRAR",
+        "precio": 90.25,
+        "take_profit": 100.58,
+        "stop_loss": 83.51
+      }
+    ],
+    "verificado": false
   }
 ]
