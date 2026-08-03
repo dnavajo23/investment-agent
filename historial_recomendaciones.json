@@ -1947,5 +1947,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-08-03",
+    "recomendaciones": [
+      {
+        "ticker": "ORCL",
+        "accion": "COMPRAR",
+        "precio": 139.85,
+        "take_profit": 156.63,
+        "stop_loss": 130.56
+      },
+      {
+        "ticker": "ETN",
+        "accion": "COMPRAR",
+        "precio": 433.455,
+        "take_profit": 485.47,
+        "stop_loss": 403.12
+      }
+    ],
+    "verificado": false
   }
 ]
