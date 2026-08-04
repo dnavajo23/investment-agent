@@ -1816,7 +1816,7 @@
         "stop_loss": 110.21
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-28",
@@ -1836,7 +1836,7 @@
         "stop_loss": 167.4
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-29",
@@ -1964,6 +1964,19 @@
         "precio": 433.455,
         "take_profit": 485.47,
         "stop_loss": 403.12
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-04",
+    "recomendaciones": [
+      {
+        "ticker": "BP.L",
+        "accion": "COMPRAR",
+        "precio": 561.0,
+        "take_profit": null,
+        "stop_loss": null
       }
     ],
     "verificado": false
