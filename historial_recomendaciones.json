@@ -2034,5 +2034,46 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-08-05",
+    "recomendaciones": [
+      {
+        "ticker": "AMGN",
+        "accion": "COMPRAR",
+        "precio": 408.425,
+        "take_profit": 453.6,
+        "stop_loss": 376.65
+      },
+      {
+        "ticker": "EMR",
+        "accion": "COMPRAR",
+        "precio": 164.685,
+        "take_profit": 181.44,
+        "stop_loss": 150.66
+      },
+      {
+        "ticker": "CAT",
+        "accion": "COMPRAR",
+        "precio": 896.3,
+        "take_profit": 991.2,
+        "stop_loss": 822.05
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 212.06,
+        "take_profit": 235.2,
+        "stop_loss": 195.3
+      },
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 161.19,
+        "take_profit": 178.08,
+        "stop_loss": 147.87
+      }
+    ],
+    "verificado": false
   }
 ]
