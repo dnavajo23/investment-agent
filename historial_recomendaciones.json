@@ -1874,7 +1874,7 @@
   {
     "fecha": "2026-07-30",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-30",
@@ -1894,7 +1894,7 @@
         "stop_loss": 657.84
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-31",
@@ -2072,6 +2072,40 @@
         "precio": 161.19,
         "take_profit": 178.08,
         "stop_loss": 147.87
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-06",
+    "recomendaciones": [
+      {
+        "ticker": "AMGN",
+        "accion": "COMPRAR",
+        "precio": 407.83,
+        "take_profit": 453.6,
+        "stop_loss": 376.65
+      },
+      {
+        "ticker": "EMR",
+        "accion": "COMPRAR",
+        "precio": 162.47,
+        "take_profit": 181.97,
+        "stop_loss": 151.1
+      },
+      {
+        "ticker": "ETN",
+        "accion": "COMPRAR",
+        "precio": 447.28,
+        "take_profit": 498.4,
+        "stop_loss": 413.85
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 209.86,
+        "take_profit": 235.04,
+        "stop_loss": 195.17
       }
     ],
     "verificado": false
