@@ -1921,12 +1921,12 @@
         "stop_loss": 534.75
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-07-31",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-03",
@@ -2106,6 +2106,47 @@
         "precio": 209.86,
         "take_profit": 235.04,
         "stop_loss": 195.17
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-07",
+    "recomendaciones": [
+      {
+        "ticker": "MSFT",
+        "accion": "COMPRAR",
+        "precio": 499.86,
+        "take_profit": 559.84,
+        "stop_loss": 474.87
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 359.49,
+        "take_profit": 402.63,
+        "stop_loss": 341.52
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 207.39,
+        "take_profit": 232.28,
+        "stop_loss": 196.02
+      },
+      {
+        "ticker": "NOC",
+        "accion": "COMPRAR",
+        "precio": 567.74,
+        "take_profit": 635.87,
+        "stop_loss": 539.35
+      },
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 162.6,
+        "take_profit": 182.11,
+        "stop_loss": 154.47
       }
     ],
     "verificado": false
