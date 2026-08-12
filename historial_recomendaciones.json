@@ -2033,7 +2033,7 @@
         "stop_loss": 337.59
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-05",
@@ -2074,7 +2074,7 @@
         "stop_loss": 147.87
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-06",
@@ -2289,6 +2289,19 @@
         "precio": 60.655,
         "take_profit": 67.76,
         "stop_loss": 56.27
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-12",
+    "recomendaciones": [
+      {
+        "ticker": "KLAC",
+        "accion": "COMPRAR",
+        "precio": 200.47,
+        "take_profit": 224.53,
+        "stop_loss": 188.44
       }
     ],
     "verificado": false
