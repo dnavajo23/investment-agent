@@ -2108,7 +2108,7 @@
         "stop_loss": 195.17
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-07",
@@ -2329,6 +2329,33 @@
         "precio": 10.24,
         "take_profit": 11.06,
         "stop_loss": 9.73
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-13",
+    "recomendaciones": [
+      {
+        "ticker": "KLAC",
+        "accion": "COMPRAR",
+        "precio": 208.25,
+        "take_profit": 231.84,
+        "stop_loss": 192.51
+      },
+      {
+        "ticker": "LRCX",
+        "accion": "COMPRAR",
+        "precio": 326.11,
+        "take_profit": 362.88,
+        "stop_loss": 301.32
+      },
+      {
+        "ticker": "AMAT",
+        "accion": "COMPRAR",
+        "precio": 548.15,
+        "take_profit": 610.4,
+        "stop_loss": 506.85
       }
     ],
     "verificado": false
