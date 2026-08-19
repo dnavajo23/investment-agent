@@ -2560,5 +2560,46 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-08-19",
+    "recomendaciones": [
+      {
+        "ticker": "GDX",
+        "accion": "COMPRAR",
+        "precio": 96.835,
+        "take_profit": 107.0,
+        "stop_loss": 88.9
+      },
+      {
+        "ticker": "LLY",
+        "accion": "COMPRAR",
+        "precio": 1281.4,
+        "take_profit": 1.0,
+        "stop_loss": 1.0
+      },
+      {
+        "ticker": "GLD",
+        "accion": "COMPRAR",
+        "precio": 411.52,
+        "take_profit": 457.6,
+        "stop_loss": 379.44
+      },
+      {
+        "ticker": "XLV",
+        "accion": "COMPRAR",
+        "precio": 176.08,
+        "take_profit": 195.44,
+        "stop_loss": 162.3
+      },
+      {
+        "ticker": "BMY",
+        "accion": "COMPRAR",
+        "precio": 68.06,
+        "take_profit": 75.04,
+        "stop_loss": 62.31
+      }
+    ],
+    "verificado": false
   }
 ]
