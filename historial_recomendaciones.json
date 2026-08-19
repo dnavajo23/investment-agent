@@ -2304,7 +2304,7 @@
         "stop_loss": 188.44
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-12",
@@ -2331,7 +2331,7 @@
         "stop_loss": 9.73
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-13",
@@ -2530,6 +2530,33 @@
         "precio": 130.4249,
         "take_profit": 140.85,
         "stop_loss": 121.29
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-19",
+    "recomendaciones": [
+      {
+        "ticker": "GILD",
+        "accion": "COMPRAR",
+        "precio": 143.44,
+        "take_profit": 159.6,
+        "stop_loss": 132.53
+      },
+      {
+        "ticker": "JNJ",
+        "accion": "COMPRAR",
+        "precio": 271.11,
+        "take_profit": 302.4,
+        "stop_loss": 251.1
+      },
+      {
+        "ticker": "XOM",
+        "accion": "COMPRAR",
+        "precio": 165.56,
+        "take_profit": 184.24,
+        "stop_loss": 152.99
       }
     ],
     "verificado": false
