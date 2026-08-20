@@ -2358,7 +2358,7 @@
         "stop_loss": 506.85
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-13",
@@ -2399,7 +2399,7 @@
         "stop_loss": 184.8
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-14",
@@ -2598,6 +2598,33 @@
         "precio": 68.06,
         "take_profit": 75.04,
         "stop_loss": 62.31
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-20",
+    "recomendaciones": [
+      {
+        "ticker": "LLY",
+        "accion": "COMPRAR",
+        "precio": 1280.34,
+        "take_profit": 1.0,
+        "stop_loss": 1.0
+      },
+      {
+        "ticker": "GLD",
+        "accion": "COMPRAR",
+        "precio": 413.84,
+        "take_profit": 461.44,
+        "stop_loss": 391.4
+      },
+      {
+        "ticker": "VRTX",
+        "accion": "COMPRAR",
+        "precio": 552.06,
+        "take_profit": 616.0,
+        "stop_loss": 522.5
       }
     ],
     "verificado": false
