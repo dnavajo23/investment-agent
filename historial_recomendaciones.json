@@ -2412,12 +2412,12 @@
         "stop_loss": 71.61
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-14",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-17",
@@ -2659,6 +2659,33 @@
         "precio": 133.631,
         "take_profit": 148.4,
         "stop_loss": 123.23
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-21",
+    "recomendaciones": [
+      {
+        "ticker": "DE",
+        "accion": "COMPRAR",
+        "precio": 620.94,
+        "take_profit": null,
+        "stop_loss": null
+      },
+      {
+        "ticker": "GDX",
+        "accion": "COMPRAR",
+        "precio": 99.85,
+        "take_profit": 110.88,
+        "stop_loss": 92.07
+      },
+      {
+        "ticker": "SLV",
+        "accion": "COMPRAR",
+        "precio": 61.66,
+        "take_profit": 67.71,
+        "stop_loss": 56.73
       }
     ],
     "verificado": false
