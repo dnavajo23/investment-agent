@@ -2771,5 +2771,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-08-24",
+    "recomendaciones": [
+      {
+        "ticker": "MRK",
+        "accion": "COMPRAR",
+        "precio": 149.975,
+        "take_profit": 167.0,
+        "stop_loss": 139.6
+      }
+    ],
+    "verificado": false
   }
 ]
