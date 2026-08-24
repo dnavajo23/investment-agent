@@ -2451,7 +2451,7 @@
         "stop_loss": 58.43
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-17",
@@ -2478,7 +2478,7 @@
         "stop_loss": 85.57
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-18",
@@ -2727,6 +2727,47 @@
         "precio": 102.48,
         "take_profit": 114.78,
         "stop_loss": 95.31
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-24",
+    "recomendaciones": [
+      {
+        "ticker": "GDX",
+        "accion": "COMPRAR",
+        "precio": 102.83,
+        "take_profit": 114.24,
+        "stop_loss": 95.86
+      },
+      {
+        "ticker": "MRK",
+        "accion": "COMPRAR",
+        "precio": 152.55,
+        "take_profit": 169.68,
+        "stop_loss": 141.9
+      },
+      {
+        "ticker": "DE",
+        "accion": "COMPRAR",
+        "precio": 647.47,
+        "take_profit": 722.4,
+        "stop_loss": 599.85
+      },
+      {
+        "ticker": "GLD",
+        "accion": "COMPRAR",
+        "precio": 423.36,
+        "take_profit": 473.24,
+        "stop_loss": 392.46
+      },
+      {
+        "ticker": "ABT",
+        "accion": "COMPRAR",
+        "precio": 116.64,
+        "take_profit": 129.92,
+        "stop_loss": 108.88
       }
     ],
     "verificado": false
