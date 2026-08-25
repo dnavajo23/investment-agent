@@ -2818,5 +2818,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-08-25",
+    "recomendaciones": [
+      {
+        "ticker": "GDX",
+        "accion": "COMPRAR",
+        "precio": 103.84,
+        "take_profit": 115.4,
+        "stop_loss": 95.79
+      }
+    ],
+    "verificado": false
   }
 ]
