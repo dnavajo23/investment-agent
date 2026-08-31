@@ -2770,7 +2770,7 @@
         "stop_loss": 108.88
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-24",
@@ -2783,7 +2783,7 @@
         "stop_loss": 139.6
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-25",
@@ -2948,6 +2948,19 @@
   {
     "fecha": "2026-08-28",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-08-31",
+    "recomendaciones": [
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 225.855,
+        "take_profit": 251.88,
+        "stop_loss": 208.32
+      }
+    ],
     "verificado": false
   }
 ]
