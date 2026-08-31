@@ -2962,5 +2962,46 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-08-31",
+    "recomendaciones": [
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 231.93,
+        "take_profit": 257.6,
+        "stop_loss": 213.9
+      },
+      {
+        "ticker": "FTNT",
+        "accion": "COMPRAR",
+        "precio": 172.11,
+        "take_profit": 191.52,
+        "stop_loss": 159.03
+      },
+      {
+        "ticker": "NOW",
+        "accion": "COMPRAR",
+        "precio": 148.72,
+        "take_profit": 165.76,
+        "stop_loss": 137.64
+      },
+      {
+        "ticker": "TSLA",
+        "accion": "COMPRAR",
+        "precio": 368.1,
+        "take_profit": 395.28,
+        "stop_loss": 340.38
+      },
+      {
+        "ticker": "QCOM",
+        "accion": "COMPRAR",
+        "precio": 171.13,
+        "take_profit": 190.4,
+        "stop_loss": 158.1
+      }
+    ],
+    "verificado": false
   }
 ]
