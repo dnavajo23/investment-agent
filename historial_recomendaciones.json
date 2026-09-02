@@ -2843,7 +2843,7 @@
         "stop_loss": 313.5
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-26",
@@ -2877,7 +2877,7 @@
         "stop_loss": 353.4
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-27",
@@ -3054,6 +3054,33 @@
         "precio": 669.4,
         "take_profit": 744.8,
         "stop_loss": 618.45
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-02",
+    "recomendaciones": [
+      {
+        "ticker": "USO",
+        "accion": "COMPRAR",
+        "precio": 141.0,
+        "take_profit": 152.28,
+        "stop_loss": 131.13
+      },
+      {
+        "ticker": "DE",
+        "accion": "COMPRAR",
+        "precio": 676.08,
+        "take_profit": 757.21,
+        "stop_loss": 628.75
+      },
+      {
+        "ticker": "CVX",
+        "accion": "COMPRAR",
+        "precio": 211.05,
+        "take_profit": 228.13,
+        "stop_loss": 196.28
       }
     ],
     "verificado": false
