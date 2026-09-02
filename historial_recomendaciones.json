@@ -3084,5 +3084,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-09-02",
+    "recomendaciones": [
+      {
+        "ticker": "DE",
+        "accion": "COMPRAR",
+        "precio": 685.83,
+        "take_profit": 765.0,
+        "stop_loss": 635.19
+      }
+    ],
+    "verificado": false
   }
 ]
