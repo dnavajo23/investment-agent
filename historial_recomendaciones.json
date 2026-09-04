@@ -3171,5 +3171,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-09-04",
+    "recomendaciones": [
+      {
+        "ticker": "KLAC",
+        "accion": "COMPRAR",
+        "precio": 186.425,
+        "take_profit": 206.08,
+        "stop_loss": 171.12
+      },
+      {
+        "ticker": "ORCL",
+        "accion": "COMPRAR",
+        "precio": 157.6183,
+        "take_profit": 176.53,
+        "stop_loss": 146.59
+      }
+    ],
+    "verificado": false
   }
 ]
