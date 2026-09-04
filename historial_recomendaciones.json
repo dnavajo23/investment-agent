@@ -2943,12 +2943,12 @@
   {
     "fecha": "2026-08-28",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-28",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-31",
@@ -3139,6 +3139,33 @@
         "ticker": "ORCL",
         "accion": "COMPRAR",
         "precio": 154.47,
+        "take_profit": 171.36,
+        "stop_loss": 142.29
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-04",
+    "recomendaciones": [
+      {
+        "ticker": "TSLA",
+        "accion": "COMPRAR",
+        "precio": 376.37,
+        "take_profit": 418.88,
+        "stop_loss": 347.55
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 214.97,
+        "take_profit": 238.56,
+        "stop_loss": 197.09
+      },
+      {
+        "ticker": "ORCL",
+        "accion": "COMPRAR",
+        "precio": 154.04,
         "take_profit": 171.36,
         "stop_loss": 142.29
       }
