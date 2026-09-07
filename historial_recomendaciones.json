@@ -2961,7 +2961,7 @@
         "stop_loss": 208.32
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-08-31",
@@ -3002,7 +3002,7 @@
         "stop_loss": 158.1
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-01",
@@ -3188,6 +3188,33 @@
         "precio": 157.6183,
         "take_profit": 176.53,
         "stop_loss": 146.59
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-07",
+    "recomendaciones": [
+      {
+        "ticker": "KLAC",
+        "accion": "COMPRAR",
+        "precio": 185.6,
+        "take_profit": 206.08,
+        "stop_loss": 171.12
+      },
+      {
+        "ticker": "ORCL",
+        "accion": "COMPRAR",
+        "precio": 158.78,
+        "take_profit": 177.0,
+        "stop_loss": 146.94
+      },
+      {
+        "ticker": "AMD",
+        "accion": "COMPRAR",
+        "precio": 477.57,
+        "take_profit": 532.0,
+        "stop_loss": 441.75
       }
     ],
     "verificado": false
