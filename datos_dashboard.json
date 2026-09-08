@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07",
+  "actualizado": "2026-09-08",
   "posiciones": [
     {
       "ticker": "ZS",
@@ -215,7 +215,7 @@
       "take_profit": 1.38,
       "stop_loss": 1.21,
       "precio_actual": 1.39,
-      "cambio_1d": -2.11
+      "cambio_1d": -0.71
     },
     {
       "ticker": "MCHP",
@@ -656,7 +656,7 @@
       "take_profit": null,
       "stop_loss": null,
       "precio_actual": 12.89,
-      "cambio_1d": 0.16
+      "cambio_1d": 0.0
     },
     {
       "ticker": "ETH-USD",
@@ -664,8 +664,8 @@
       "precio": 1964.71,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 2487.01,
-      "cambio_1d": -1.1
+      "precio_actual": 2473.26,
+      "cambio_1d": -0.71
     },
     {
       "ticker": "BTC-USD",
@@ -673,8 +673,8 @@
       "precio": 65290.5,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 79105.66,
-      "cambio_1d": -1.55
+      "precio_actual": 78386.85,
+      "cambio_1d": -0.92
     },
     {
       "ticker": "BNB-USD",
@@ -682,8 +682,8 @@
       "precio": 572.01,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 738.75,
-      "cambio_1d": -1.83
+      "precio_actual": 751.75,
+      "cambio_1d": 1.58
     },
     {
       "ticker": "DOT-USD",
@@ -691,8 +691,8 @@
       "precio": 0.811,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 1.1,
-      "cambio_1d": 12.24
+      "precio_actual": 1.08,
+      "cambio_1d": 1.89
     },
     {
       "ticker": "V",
@@ -727,8 +727,8 @@
       "precio": 561.0,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 546.4,
-      "cambio_1d": 1.24
+      "precio_actual": 552.5,
+      "cambio_1d": 1.12
     },
     {
       "ticker": "MSFT",
@@ -745,8 +745,8 @@
       "precio": 1568.2,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 1500.4,
-      "cambio_1d": 2.25
+      "precio_actual": 1523.0,
+      "cambio_1d": 0.0
     },
     {
       "ticker": "EQIX",
@@ -799,8 +799,8 @@
       "precio": 11.427,
       "take_profit": 12.34,
       "stop_loss": 10.63,
-      "precio_actual": 12.76,
-      "cambio_1d": -3.48
+      "precio_actual": 12.51,
+      "cambio_1d": -1.96
     },
     {
       "ticker": "TSLA",
