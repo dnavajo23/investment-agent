@@ -3358,5 +3358,32 @@
     "fecha": "2026-09-14",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-09-14",
+    "recomendaciones": [
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 236.82,
+        "take_profit": 262.08,
+        "stop_loss": 220.96
+      },
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 189.8,
+        "take_profit": 210.56,
+        "stop_loss": 178.6
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 375.7714,
+        "take_profit": 418.76,
+        "stop_loss": 354.35
+      }
+    ],
+    "verificado": false
   }
 ]
