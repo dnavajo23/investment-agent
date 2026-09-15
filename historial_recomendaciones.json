@@ -3278,12 +3278,12 @@
         "stop_loss": 130.2
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-08",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-09",
@@ -3382,6 +3382,40 @@
         "precio": 375.7714,
         "take_profit": 418.76,
         "stop_loss": 354.35
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-15",
+    "recomendaciones": [
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 235.38,
+        "take_profit": 261.62,
+        "stop_loss": 218.69
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 373.94,
+        "take_profit": 414.4,
+        "stop_loss": 344.1
+      },
+      {
+        "ticker": "NET",
+        "accion": "COMPRAR",
+        "precio": 330.36,
+        "take_profit": 367.36,
+        "stop_loss": 305.04
+      },
+      {
+        "ticker": "FTNT",
+        "accion": "COMPRAR",
+        "precio": 170.18,
+        "take_profit": 188.72,
+        "stop_loss": 156.71
       }
     ],
     "verificado": false
