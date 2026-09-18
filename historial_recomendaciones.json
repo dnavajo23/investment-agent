@@ -3339,7 +3339,7 @@
   {
     "fecha": "2026-09-11",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-11",
@@ -3352,7 +3352,7 @@
         "stop_loss": 255.93
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-14",
@@ -3548,6 +3548,40 @@
         "ticker": "NET",
         "accion": "COMPRAR",
         "precio": 331.75,
+        "take_profit": 369.6,
+        "stop_loss": 306.9
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-18",
+    "recomendaciones": [
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 197.47,
+        "take_profit": 218.4,
+        "stop_loss": 181.35
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 245.7,
+        "take_profit": 272.16,
+        "stop_loss": 225.99
+      },
+      {
+        "ticker": "FTNT",
+        "accion": "COMPRAR",
+        "precio": 172.58,
+        "take_profit": 191.52,
+        "stop_loss": 159.03
+      },
+      {
+        "ticker": "NET",
+        "accion": "COMPRAR",
+        "precio": 333.94,
         "take_profit": 369.6,
         "stop_loss": 306.9
       }
