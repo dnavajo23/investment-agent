@@ -3633,5 +3633,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-09-21",
+    "recomendaciones": [
+      {
+        "ticker": "NET",
+        "accion": "COMPRAR",
+        "precio": 349.765,
+        "take_profit": 390.88,
+        "stop_loss": 324.57
+      }
+    ],
+    "verificado": false
   }
 ]
