@@ -3357,7 +3357,7 @@
   {
     "fecha": "2026-09-14",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-14",
@@ -3384,7 +3384,7 @@
         "stop_loss": 354.35
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-15",
@@ -3591,6 +3591,47 @@
   {
     "fecha": "2026-09-18",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-21",
+    "recomendaciones": [
+      {
+        "ticker": "SOL-USD",
+        "accion": "COMPRAR",
+        "precio": 117.76,
+        "take_profit": 127.18,
+        "stop_loss": 109.52
+      },
+      {
+        "ticker": "XRP-USD",
+        "accion": "COMPRAR",
+        "precio": 1.4892,
+        "take_profit": 1.61,
+        "stop_loss": 1.38
+      },
+      {
+        "ticker": "BTC-USD",
+        "accion": "COMPRAR",
+        "precio": 85115.5234,
+        "take_profit": 95.0,
+        "stop_loss": 79.0
+      },
+      {
+        "ticker": "ADA-USD",
+        "accion": "COMPRAR",
+        "precio": 0.244,
+        "take_profit": 0.2635,
+        "stop_loss": 0.2269
+      },
+      {
+        "ticker": "ETN",
+        "accion": "COMPRAR",
+        "precio": 424.77,
+        "take_profit": 475.74,
+        "stop_loss": 394.94
+      }
+    ],
     "verificado": false
   }
 ]
