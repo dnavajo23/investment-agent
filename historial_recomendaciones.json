@@ -3418,7 +3418,7 @@
         "stop_loss": 156.71
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-15",
@@ -3445,7 +3445,7 @@
         "stop_loss": 226.0
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-16",
@@ -3643,6 +3643,47 @@
         "precio": 349.765,
         "take_profit": 390.88,
         "stop_loss": 324.57
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-22",
+    "recomendaciones": [
+      {
+        "ticker": "NET",
+        "accion": "COMPRAR",
+        "precio": 351.67,
+        "take_profit": 389.76,
+        "stop_loss": 323.64
+      },
+      {
+        "ticker": "QCOM",
+        "accion": "COMPRAR",
+        "precio": 194.23,
+        "take_profit": 215.04,
+        "stop_loss": 178.56
+      },
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 207.13,
+        "take_profit": 229.6,
+        "stop_loss": 190.65
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 249.35,
+        "take_profit": 276.64,
+        "stop_loss": 229.71
+      },
+      {
+        "ticker": "AMAT",
+        "accion": "COMPRAR",
+        "precio": 464.24,
+        "take_profit": 552.0,
+        "stop_loss": 427.8
       }
     ],
     "verificado": false
