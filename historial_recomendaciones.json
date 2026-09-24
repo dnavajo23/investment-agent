@@ -3518,7 +3518,7 @@
         "stop_loss": 347.82
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-17",
@@ -3552,7 +3552,7 @@
         "stop_loss": 306.9
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-18",
@@ -3758,6 +3758,40 @@
         "precio": 708.06,
         "take_profit": 793.03,
         "stop_loss": 658.5
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-24",
+    "recomendaciones": [
+      {
+        "ticker": "INTU",
+        "accion": "COMPRAR",
+        "precio": 286.8,
+        "take_profit": 319.2,
+        "stop_loss": 265.05
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 393.3,
+        "take_profit": 440.5,
+        "stop_loss": 365.77
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 262.49,
+        "take_profit": 293.99,
+        "stop_loss": 244.12
+      },
+      {
+        "ticker": "SNPS",
+        "accion": "COMPRAR",
+        "precio": 413.06,
+        "take_profit": 462.63,
+        "stop_loss": 384.15
       }
     ],
     "verificado": false
