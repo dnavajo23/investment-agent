@@ -3834,5 +3834,39 @@
     "fecha": "2026-09-25",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-09-25",
+    "recomendaciones": [
+      {
+        "ticker": "QCOM",
+        "accion": "COMPRAR",
+        "precio": 204.24,
+        "take_profit": 228.75,
+        "stop_loss": 189.94
+      },
+      {
+        "ticker": "MSFT",
+        "accion": "COMPRAR",
+        "precio": 517.715,
+        "take_profit": 579.85,
+        "stop_loss": 481.48
+      },
+      {
+        "ticker": "CDNS",
+        "accion": "COMPRAR",
+        "precio": 326.26,
+        "take_profit": 365.41,
+        "stop_loss": 303.42
+      },
+      {
+        "ticker": "AMGN",
+        "accion": "COMPRAR",
+        "precio": 412.56,
+        "take_profit": 495.07,
+        "stop_loss": 383.68
+      }
+    ],
+    "verificado": false
   }
 ]
