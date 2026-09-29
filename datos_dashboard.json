@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28",
+  "actualizado": "2026-09-29",
   "posiciones": [
     {
       "ticker": "ZS",
@@ -188,7 +188,7 @@
       "take_profit": 0.2,
       "stop_loss": 0.175,
       "precio_actual": 0.25,
-      "cambio_1d": -3.85
+      "cambio_1d": 0.0
     },
     {
       "ticker": "AMD",
@@ -214,8 +214,8 @@
       "precio": 1.28,
       "take_profit": 1.38,
       "stop_loss": 1.21,
-      "precio_actual": 1.49,
-      "cambio_1d": -1.97
+      "precio_actual": 1.55,
+      "cambio_1d": 3.33
     },
     {
       "ticker": "MCHP",
@@ -655,8 +655,8 @@
       "precio": 12.328,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 12.5,
-      "cambio_1d": -0.56
+      "precio_actual": 12.63,
+      "cambio_1d": 1.04
     },
     {
       "ticker": "ETH-USD",
@@ -664,8 +664,8 @@
       "precio": 1964.71,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 2682.52,
-      "cambio_1d": -0.16
+      "precio_actual": 2734.99,
+      "cambio_1d": 1.72
     },
     {
       "ticker": "BTC-USD",
@@ -673,8 +673,8 @@
       "precio": 65290.5,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 83521.72,
-      "cambio_1d": -1.11
+      "precio_actual": 84450.69,
+      "cambio_1d": 1.14
     },
     {
       "ticker": "BNB-USD",
@@ -682,8 +682,8 @@
       "precio": 572.01,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 764.89,
-      "cambio_1d": -1.8
+      "precio_actual": 766.26,
+      "cambio_1d": 0.32
     },
     {
       "ticker": "DOT-USD",
@@ -691,8 +691,8 @@
       "precio": 0.811,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 1.18,
-      "cambio_1d": -7.09
+      "precio_actual": 1.21,
+      "cambio_1d": 2.54
     },
     {
       "ticker": "V",
@@ -727,8 +727,8 @@
       "precio": 561.0,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 563.5,
-      "cambio_1d": 0.9
+      "precio_actual": 547.0,
+      "cambio_1d": -2.93
     },
     {
       "ticker": "MSFT",
@@ -745,8 +745,8 @@
       "precio": 1568.2,
       "take_profit": null,
       "stop_loss": null,
-      "precio_actual": 1537.0,
-      "cambio_1d": 0.95
+      "precio_actual": 1590.6,
+      "cambio_1d": 3.49
     },
     {
       "ticker": "EQIX",
@@ -799,8 +799,8 @@
       "precio": 11.427,
       "take_profit": 12.34,
       "stop_loss": 10.63,
-      "precio_actual": 15.28,
-      "cambio_1d": 8.83
+      "precio_actual": 15.26,
+      "cambio_1d": -1.17
     },
     {
       "ticker": "TSLA",
@@ -826,8 +826,8 @@
       "precio": 117.76,
       "take_profit": 127.18,
       "stop_loss": 109.52,
-      "precio_actual": 118.96,
-      "cambio_1d": -2.54
+      "precio_actual": 121.26,
+      "cambio_1d": 2.04
     },
     {
       "ticker": "DOGE-USD",
@@ -835,8 +835,8 @@
       "precio": 0.0991,
       "take_profit": 0.107,
       "stop_loss": 0.092,
-      "precio_actual": 0.09,
-      "cambio_1d": -10.0
+      "precio_actual": 0.1,
+      "cambio_1d": 11.11
     },
     {
       "ticker": "ARKK",
@@ -853,8 +853,8 @@
       "precio": 24.66,
       "take_profit": 27.44,
       "stop_loss": 22.79,
-      "precio_actual": 24.58,
-      "cambio_1d": 2.03
+      "precio_actual": 24.11,
+      "cambio_1d": -1.91
     }
   ]
 }
