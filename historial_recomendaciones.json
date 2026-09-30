@@ -3740,7 +3740,7 @@
         "stop_loss": 108.12
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-23",
@@ -3760,7 +3760,7 @@
         "stop_loss": 658.5
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-24",
@@ -3958,6 +3958,33 @@
         "precio": 733.3234,
         "take_profit": 815.0,
         "stop_loss": 677.0
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-09-30",
+    "recomendaciones": [
+      {
+        "ticker": "AMAT",
+        "accion": "COMPRAR",
+        "precio": 512.01,
+        "take_profit": 571.2,
+        "stop_loss": 479.4
+      },
+      {
+        "ticker": "KLAC",
+        "accion": "COMPRAR",
+        "precio": 196.53,
+        "take_profit": 218.4,
+        "stop_loss": 183.3
+      },
+      {
+        "ticker": "LRCX",
+        "accion": "COMPRAR",
+        "precio": 323.86,
+        "take_profit": 360.64,
+        "stop_loss": 302.68
       }
     ],
     "verificado": false
