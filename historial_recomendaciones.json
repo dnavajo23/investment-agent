@@ -3988,5 +3988,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-09-30",
+    "recomendaciones": [
+      {
+        "ticker": "MS",
+        "accion": "COMPRAR",
+        "precio": 188.555,
+        "take_profit": 580.0,
+        "stop_loss": 491.96
+      },
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 398.585,
+        "take_profit": 446.42,
+        "stop_loss": 378.66
+      }
+    ],
+    "verificado": false
   }
 ]
