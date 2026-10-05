@@ -3894,12 +3894,12 @@
         "stop_loss": 140.43
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-28",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-09-29",
@@ -4034,6 +4034,11 @@
   },
   {
     "fecha": "2026-10-02",
+    "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-10-05",
     "recomendaciones": [],
     "verificado": false
   }
