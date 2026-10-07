@@ -4098,5 +4098,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-07",
+    "recomendaciones": [
+      {
+        "ticker": "UNG",
+        "accion": "COMPRAR",
+        "precio": 11.045,
+        "take_profit": 12.32,
+        "stop_loss": 10.23
+      }
+    ],
+    "verificado": false
   }
 ]
