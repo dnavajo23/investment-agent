@@ -4131,5 +4131,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-08",
+    "recomendaciones": [
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 217.06,
+        "take_profit": 240.72,
+        "stop_loss": 200.0
+      },
+      {
+        "ticker": "XLE",
+        "accion": "COMPRAR",
+        "precio": 65.295,
+        "take_profit": 73.14,
+        "stop_loss": 60.73
+      }
+    ],
+    "verificado": false
   }
 ]
