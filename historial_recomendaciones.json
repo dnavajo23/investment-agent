@@ -4012,12 +4012,12 @@
   {
     "fecha": "2026-10-01",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-01",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-02",
@@ -4108,6 +4108,26 @@
         "precio": 11.045,
         "take_profit": 12.32,
         "stop_loss": 10.23
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-10-08",
+    "recomendaciones": [
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 217.865,
+        "take_profit": 244.1,
+        "stop_loss": 200.45
+      },
+      {
+        "ticker": "XLE",
+        "accion": "COMPRAR",
+        "precio": 64.86,
+        "take_profit": 69.66,
+        "stop_loss": 59.95
       }
     ],
     "verificado": false
