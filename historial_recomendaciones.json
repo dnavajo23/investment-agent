@@ -4030,12 +4030,12 @@
         "stop_loss": 678.9
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-02",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-05",
@@ -4148,6 +4148,47 @@
         "precio": 65.295,
         "take_profit": 73.14,
         "stop_loss": 60.73
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-10-09",
+    "recomendaciones": [
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 220.8025,
+        "take_profit": 245.28,
+        "stop_loss": 203.67
+      },
+      {
+        "ticker": "AMT",
+        "accion": "COMPRAR",
+        "precio": 178.9254,
+        "take_profit": 198.24,
+        "stop_loss": 164.61
+      },
+      {
+        "ticker": "SAP.DE",
+        "accion": "COMPRAR",
+        "precio": 191.64,
+        "take_profit": null,
+        "stop_loss": null
+      },
+      {
+        "ticker": "INTU",
+        "accion": "COMPRAR",
+        "precio": 309.02,
+        "take_profit": 342.72,
+        "stop_loss": 284.58
+      },
+      {
+        "ticker": "ISRG",
+        "accion": "COMPRAR",
+        "precio": 424.4,
+        "take_profit": 472.64,
+        "stop_loss": 392.46
       }
     ],
     "verificado": false
