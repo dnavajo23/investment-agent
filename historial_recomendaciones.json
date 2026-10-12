@@ -4246,5 +4246,32 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-12",
+    "recomendaciones": [
+      {
+        "ticker": "AMT",
+        "accion": "COMPRAR",
+        "precio": 182.56,
+        "take_profit": 203.28,
+        "stop_loss": 168.8
+      },
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 225.78,
+        "take_profit": 250.88,
+        "stop_loss": 208.32
+      },
+      {
+        "ticker": "KO",
+        "accion": "COMPRAR",
+        "precio": 89.79,
+        "take_profit": 100.24,
+        "stop_loss": 83.24
+      }
+    ],
+    "verificado": false
   }
 ]
