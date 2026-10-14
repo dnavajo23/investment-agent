@@ -4347,5 +4347,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-14",
+    "recomendaciones": [
+      {
+        "ticker": "REGN",
+        "accion": "COMPRAR",
+        "precio": 780.425,
+        "take_profit": 873.6,
+        "stop_loss": 725.4
+      },
+      {
+        "ticker": "LLY",
+        "accion": "COMPRAR",
+        "precio": 1214.22,
+        "take_profit": 1.0,
+        "stop_loss": 1.0
+      }
+    ],
+    "verificado": false
   }
 ]
