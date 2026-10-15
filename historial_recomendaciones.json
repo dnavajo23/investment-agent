@@ -4130,7 +4130,7 @@
         "stop_loss": 59.95
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-08",
@@ -4150,7 +4150,7 @@
         "stop_loss": 60.73
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-09",
@@ -4364,6 +4364,19 @@
         "precio": 1214.22,
         "take_profit": 1.0,
         "stop_loss": 1.0
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-10-15",
+    "recomendaciones": [
+      {
+        "ticker": "REGN",
+        "accion": "COMPRAR",
+        "precio": 778.36,
+        "take_profit": 871.76,
+        "stop_loss": 723.87
       }
     ],
     "verificado": false
