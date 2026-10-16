@@ -4427,5 +4427,32 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-16",
+    "recomendaciones": [
+      {
+        "ticker": "USO",
+        "accion": "COMPRAR",
+        "precio": 161.2765,
+        "take_profit": 173.34,
+        "stop_loss": 149.27
+      },
+      {
+        "ticker": "NOC",
+        "accion": "COMPRAR",
+        "precio": 514.34,
+        "take_profit": 573.44,
+        "stop_loss": 476.16
+      },
+      {
+        "ticker": "RTX",
+        "accion": "COMPRAR",
+        "precio": 192.53,
+        "take_profit": 213.92,
+        "stop_loss": 177.63
+      }
+    ],
+    "verificado": false
   }
 ]
