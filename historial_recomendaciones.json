@@ -4481,5 +4481,32 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-19",
+    "recomendaciones": [
+      {
+        "ticker": "LRCX",
+        "accion": "COMPRAR",
+        "precio": 274.675,
+        "take_profit": 304.64,
+        "stop_loss": 253.0
+      },
+      {
+        "ticker": "AMAT",
+        "accion": "COMPRAR",
+        "precio": 416.8,
+        "take_profit": 462.56,
+        "stop_loss": 384.09
+      },
+      {
+        "ticker": "AMZN",
+        "accion": "COMPRAR",
+        "precio": 263.254,
+        "take_profit": 292.32,
+        "stop_loss": 242.73
+      }
+    ],
+    "verificado": false
   }
 ]
