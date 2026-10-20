@@ -4306,7 +4306,7 @@
         "stop_loss": 714.24
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-13",
@@ -4326,7 +4326,7 @@
         "stop_loss": 169.26
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-14",
@@ -4505,6 +4505,26 @@
         "precio": 263.254,
         "take_profit": 292.32,
         "stop_loss": 242.73
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-10-20",
+    "recomendaciones": [
+      {
+        "ticker": "LRCX",
+        "accion": "COMPRAR",
+        "precio": 272.2,
+        "take_profit": 302.4,
+        "stop_loss": 251.1
+      },
+      {
+        "ticker": "AMAT",
+        "accion": "COMPRAR",
+        "precio": 413.11,
+        "take_profit": 459.2,
+        "stop_loss": 381.3
       }
     ],
     "verificado": false
