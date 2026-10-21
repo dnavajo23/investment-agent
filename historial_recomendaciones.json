@@ -4346,7 +4346,7 @@
         "stop_loss": 458.85
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-14",
@@ -4366,7 +4366,7 @@
         "stop_loss": 1.0
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-15",
@@ -4559,6 +4559,26 @@
         "precio": 61.625,
         "take_profit": 73.2,
         "stop_loss": 56.73
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-10-21",
+    "recomendaciones": [
+      {
+        "ticker": "LLY",
+        "accion": "COMPRAR",
+        "precio": 1283.66,
+        "take_profit": 1.0,
+        "stop_loss": 1.0
+      },
+      {
+        "ticker": "BMY",
+        "accion": "COMPRAR",
+        "precio": 61.68,
+        "take_profit": 74.02,
+        "stop_loss": 57.96
       }
     ],
     "verificado": false
