@@ -4582,5 +4582,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-21",
+    "recomendaciones": [
+      {
+        "ticker": "LRCX",
+        "accion": "COMPRAR",
+        "precio": 261.59,
+        "take_profit": 290.31,
+        "stop_loss": 245.34
+      }
+    ],
+    "verificado": false
   }
 ]
