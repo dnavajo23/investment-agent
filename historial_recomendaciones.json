@@ -4426,7 +4426,7 @@
         "stop_loss": 258.54
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-16",
@@ -4453,7 +4453,7 @@
         "stop_loss": 177.63
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-19",
@@ -4639,6 +4639,33 @@
         "precio": 166.415,
         "take_profit": 178.2,
         "stop_loss": 156.75
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-10-23",
+    "recomendaciones": [
+      {
+        "ticker": "ZS",
+        "accion": "COMPRAR",
+        "precio": 237.76,
+        "take_profit": 263.2,
+        "stop_loss": 218.55
+      },
+      {
+        "ticker": "NOC",
+        "accion": "COMPRAR",
+        "precio": 552.35,
+        "take_profit": 616.0,
+        "stop_loss": 511.5
+      },
+      {
+        "ticker": "JNJ",
+        "accion": "COMPRAR",
+        "precio": 267.61,
+        "take_profit": 296.8,
+        "stop_loss": 246.45
       }
     ],
     "verificado": false
