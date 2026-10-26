@@ -4716,5 +4716,39 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-26",
+    "recomendaciones": [
+      {
+        "ticker": "PANW",
+        "accion": "COMPRAR",
+        "precio": 391.16,
+        "take_profit": 434.56,
+        "stop_loss": 360.84
+      },
+      {
+        "ticker": "CRWD",
+        "accion": "COMPRAR",
+        "precio": 261.9,
+        "take_profit": 290.08,
+        "stop_loss": 240.87
+      },
+      {
+        "ticker": "TXN",
+        "accion": "COMPRAR",
+        "precio": 298.665,
+        "take_profit": 331.52,
+        "stop_loss": 275.28
+      },
+      {
+        "ticker": "DDOG",
+        "accion": "COMPRAR",
+        "precio": 281.72,
+        "take_profit": 301.32,
+        "stop_loss": 259.47
+      }
+    ],
+    "verificado": false
   }
 ]
