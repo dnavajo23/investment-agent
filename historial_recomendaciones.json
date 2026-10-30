@@ -4937,5 +4937,18 @@
     "fecha": "2026-10-30",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-10-30",
+    "recomendaciones": [
+      {
+        "ticker": "ORCL",
+        "accion": "COMPRAR",
+        "precio": 130.145,
+        "take_profit": null,
+        "stop_loss": null
+      }
+    ],
+    "verificado": false
   }
 ]
