@@ -4926,12 +4926,12 @@
         "stop_loss": 159.22
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-29",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-10-30",
@@ -4995,6 +4995,11 @@
         "stop_loss": 202.0
       }
     ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-05",
+    "recomendaciones": [],
     "verificado": false
   }
 ]
