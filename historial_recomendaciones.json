@@ -4954,12 +4954,12 @@
   {
     "fecha": "2026-11-02",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-02",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-03",
@@ -5037,6 +5037,19 @@
   {
     "fecha": "2026-11-06",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-09",
+    "recomendaciones": [
+      {
+        "ticker": "GDX",
+        "accion": "COMPRAR",
+        "precio": 90.505,
+        "take_profit": 101.37,
+        "stop_loss": 84.17
+      }
+    ],
     "verificado": false
   }
 ]
