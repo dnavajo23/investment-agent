@@ -4964,12 +4964,12 @@
   {
     "fecha": "2026-11-03",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-03",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-04",
@@ -5063,6 +5063,11 @@
         "stop_loss": 207.63
       }
     ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-10",
+    "recomendaciones": [],
     "verificado": false
   }
 ]
