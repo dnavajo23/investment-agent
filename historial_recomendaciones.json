@@ -4982,7 +4982,7 @@
         "stop_loss": 251.05
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-04",
@@ -4995,7 +4995,7 @@
         "stop_loss": 202.0
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-05",
@@ -5068,6 +5068,47 @@
   {
     "fecha": "2026-11-10",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-11",
+    "recomendaciones": [
+      {
+        "ticker": "NET",
+        "accion": "COMPRAR",
+        "precio": 313.17,
+        "take_profit": 347.2,
+        "stop_loss": 288.3
+      },
+      {
+        "ticker": "AMD",
+        "accion": "COMPRAR",
+        "precio": 525.8,
+        "take_profit": 582.4,
+        "stop_loss": 483.6
+      },
+      {
+        "ticker": "KLAC",
+        "accion": "COMPRAR",
+        "precio": 157.63,
+        "take_profit": 174.72,
+        "stop_loss": 145.08
+      },
+      {
+        "ticker": "CDNS",
+        "accion": "COMPRAR",
+        "precio": 336.725,
+        "take_profit": 402.0,
+        "stop_loss": 311.55
+      },
+      {
+        "ticker": "NXPI",
+        "accion": "COMPRAR",
+        "precio": 263.39,
+        "take_profit": 293.44,
+        "stop_loss": 243.66
+      }
+    ],
     "verificado": false
   }
 ]
