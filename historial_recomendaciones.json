@@ -5000,12 +5000,12 @@
   {
     "fecha": "2026-11-05",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-05",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-06",
@@ -5114,6 +5114,19 @@
   {
     "fecha": "2026-11-11",
     "recomendaciones": [],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-12",
+    "recomendaciones": [
+      {
+        "ticker": "AMD",
+        "accion": "COMPRAR",
+        "precio": 562.405,
+        "take_profit": 621.6,
+        "stop_loss": 516.15
+      }
+    ],
     "verificado": false
   }
 ]
