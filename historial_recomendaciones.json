@@ -5177,5 +5177,18 @@
     "fecha": "2026-11-16",
     "recomendaciones": [],
     "verificado": false
+  },
+  {
+    "fecha": "2026-11-16",
+    "recomendaciones": [
+      {
+        "ticker": "V",
+        "accion": "COMPRAR",
+        "precio": 426.46,
+        "take_profit": 10.42,
+        "stop_loss": 8.65
+      }
+    ],
+    "verificado": false
   }
 ]
