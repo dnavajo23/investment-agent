@@ -5068,7 +5068,7 @@
   {
     "fecha": "2026-11-10",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-11",
@@ -5189,6 +5189,11 @@
         "stop_loss": 8.65
       }
     ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-17",
+    "recomendaciones": [],
     "verificado": false
   }
 ]
