@@ -5204,7 +5204,7 @@
   {
     "fecha": "2026-11-18",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-18",
@@ -5217,7 +5217,7 @@
         "stop_loss": 311.55
       }
     ],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-19",
@@ -5302,6 +5302,26 @@
         "precio": 178.29,
         "take_profit": 199.68,
         "stop_loss": 166.95
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-25",
+    "recomendaciones": [
+      {
+        "ticker": "ABT",
+        "accion": "COMPRAR",
+        "precio": 109.22,
+        "take_profit": 122.33,
+        "stop_loss": 101.57
+      },
+      {
+        "ticker": "VRTX",
+        "accion": "COMPRAR",
+        "precio": 564.35,
+        "take_profit": 632.07,
+        "stop_loss": 524.85
       }
     ],
     "verificado": false
