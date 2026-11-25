@@ -5325,5 +5325,18 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-11-25",
+    "recomendaciones": [
+      {
+        "ticker": "TXN",
+        "accion": "COMPRAR",
+        "precio": 270.19,
+        "take_profit": 302.4,
+        "stop_loss": 251.1
+      }
+    ],
+    "verificado": false
   }
 ]
