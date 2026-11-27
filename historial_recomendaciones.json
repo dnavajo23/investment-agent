@@ -5255,12 +5255,12 @@
   {
     "fecha": "2026-11-20",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-20",
     "recomendaciones": [],
-    "verificado": false
+    "verificado": true
   },
   {
     "fecha": "2026-11-23",
@@ -5382,6 +5382,26 @@
         "precio": 176.74,
         "take_profit": 197.95,
         "stop_loss": 164.37
+      }
+    ],
+    "verificado": false
+  },
+  {
+    "fecha": "2026-11-27",
+    "recomendaciones": [
+      {
+        "ticker": "QCOM",
+        "accion": "COMPRAR",
+        "precio": 179.415,
+        "take_profit": 193.77,
+        "stop_loss": 167.96
+      },
+      {
+        "ticker": "AMGN",
+        "accion": "COMPRAR",
+        "precio": 473.47,
+        "take_profit": 530.29,
+        "stop_loss": 440.33
       }
     ],
     "verificado": false
