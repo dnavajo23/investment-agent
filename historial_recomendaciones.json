@@ -5405,5 +5405,25 @@
       }
     ],
     "verificado": false
+  },
+  {
+    "fecha": "2026-11-27",
+    "recomendaciones": [
+      {
+        "ticker": "NVDA",
+        "accion": "COMPRAR",
+        "precio": 150.49,
+        "take_profit": 166.88,
+        "stop_loss": 138.57
+      },
+      {
+        "ticker": "DDOG",
+        "accion": "COMPRAR",
+        "precio": 165.75,
+        "take_profit": 183.68,
+        "stop_loss": 152.52
+      }
+    ],
+    "verificado": false
   }
 ]
